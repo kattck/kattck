@@ -1,8 +1,8 @@
-### Cam Stephens
+# Cam Stephens
 
 ## Current Role: Lead Cloud Engineer
 
-# Azure Web Services & Architect
+### Azure Web Services & Architect
 
 Current Projects: 
 
